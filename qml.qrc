@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Obstacle.qml</file>
+        <file>BigObstacle.qml</file>
+    </qresource>
+</RCC>
